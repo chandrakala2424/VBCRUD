@@ -309,7 +309,7 @@ Public Class Form1
     End Sub
 
 
-
+    '//Chnadrakla antheree
     'CLEAR METHOD
 
     Private Sub ClearData()
